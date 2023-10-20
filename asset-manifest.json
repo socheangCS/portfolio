@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/https//socheangCS.github.io/portfolio/static/css/main.f1d11cab.css",
+    "main.js": "/https//socheangCS.github.io/portfolio/static/js/main.f90fc993.js",
+    "static/js/495.023bb700.chunk.js": "/https//socheangCS.github.io/portfolio/static/js/495.023bb700.chunk.js",
+    "static/js/453.fce1d05a.chunk.js": "/https//socheangCS.github.io/portfolio/static/js/453.fce1d05a.chunk.js",
+    "static/js/55.4c373c03.chunk.js": "/https//socheangCS.github.io/portfolio/static/js/55.4c373c03.chunk.js",
+    "static/js/133.c0faa5c2.chunk.js": "/https//socheangCS.github.io/portfolio/static/js/133.c0faa5c2.chunk.js",
+    "static/js/80.9805d5e6.chunk.js": "/https//socheangCS.github.io/portfolio/static/js/80.9805d5e6.chunk.js",
+    "static/js/228.1576b078.chunk.js": "/https//socheangCS.github.io/portfolio/static/js/228.1576b078.chunk.js",
+    "static/js/454.386bb8f9.chunk.js": "/https//socheangCS.github.io/portfolio/static/js/454.386bb8f9.chunk.js",
+    "static/js/561.d18583f9.chunk.js": "/https//socheangCS.github.io/portfolio/static/js/561.d18583f9.chunk.js",
+    "static/media/cv.pdf": "/https//socheangCS.github.io/portfolio/static/media/cv.ad217892ee8479fb438a.pdf",
+    "static/media/cs_white.png": "/https//socheangCS.github.io/portfolio/static/media/cs_white.c3ea2c8b364a4f79e17d.png",
+    "index.html": "/https//socheangCS.github.io/portfolio/index.html",
+    "main.f1d11cab.css.map": "/https//socheangCS.github.io/portfolio/static/css/main.f1d11cab.css.map",
+    "main.f90fc993.js.map": "/https//socheangCS.github.io/portfolio/static/js/main.f90fc993.js.map",
+    "495.023bb700.chunk.js.map": "/https//socheangCS.github.io/portfolio/static/js/495.023bb700.chunk.js.map",
+    "453.fce1d05a.chunk.js.map": "/https//socheangCS.github.io/portfolio/static/js/453.fce1d05a.chunk.js.map",
+    "55.4c373c03.chunk.js.map": "/https//socheangCS.github.io/portfolio/static/js/55.4c373c03.chunk.js.map",
+    "133.c0faa5c2.chunk.js.map": "/https//socheangCS.github.io/portfolio/static/js/133.c0faa5c2.chunk.js.map",
+    "80.9805d5e6.chunk.js.map": "/https//socheangCS.github.io/portfolio/static/js/80.9805d5e6.chunk.js.map",
+    "228.1576b078.chunk.js.map": "/https//socheangCS.github.io/portfolio/static/js/228.1576b078.chunk.js.map",
+    "454.386bb8f9.chunk.js.map": "/https//socheangCS.github.io/portfolio/static/js/454.386bb8f9.chunk.js.map",
+    "561.d18583f9.chunk.js.map": "/https//socheangCS.github.io/portfolio/static/js/561.d18583f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d11cab.css",
+    "static/js/main.f90fc993.js"
+  ]
+}
