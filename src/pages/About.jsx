@@ -37,7 +37,7 @@ export default function About() {
       </ul>
     ),
     Education:
-      "2020-present Studying in Computer Science at Royal University at Phnom Penh (RUPP).",
+      "2020-present Studying in Computer Science of Royal University at Phnom Penh (RUPP).",
     Experience: "This is the content for Experience.",
   };
   const getButtonClass = (contentName) => {
